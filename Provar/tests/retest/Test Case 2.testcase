@@ -14,9 +14,6 @@
           <value class="value" valueClass="string">Test</value>
         </argument>
         <argument id="uiApplicationName"/>
-        <argument id="quickUiLogin">
-          <value class="value" valueClass="boolean">true</value>
-        </argument>
         <argument id="closeAllPrimaryTabs">
           <value class="value" valueClass="boolean">true</value>
         </argument>
